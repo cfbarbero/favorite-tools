@@ -10,3 +10,7 @@ A wiki of common tools I use
 - aws_lambda_logging
 - Cloud Custodian
 - https://github.com/OlafConijn/AwsOrganizationFormation
+
+## Security
+- https://github.com/salesforce/cloudsplaining
+- https://github.com/RhinoSecurityLabs/pacu
